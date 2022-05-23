@@ -13,7 +13,7 @@ public class script1 : MonoBehaviour
         {
             ball.x = 0f;
             ball.y = 0f;
-            ball.z = 0.04f;
+            ball.z = 0.06f;
 
             transform.Translate(ball);
         }
